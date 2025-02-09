@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Full Stack Development with AI and creating engaging content for my Youtube and Insta posts.<br>👯 I’m looking to collaborate on tech-related projects, web development.<br>🤝 I’m looking for help with mastering advanced backend development and exploring AI-driven applications in web development.<br>🌱 I’m currently learning Full Stack Development with AI, DSA using JavaScript, and improving my backend skills with Node.js.<br>💬 Ask me about JavaScript, Web Development, and IT Training.<br>⚡ Fun fact I can explain complex coding concepts in a simple and fun way—both in writing and through engaging videos! 😎
 
-## Portfolio - [![Avtar's PortFolio](https://avtarsingh-portfolio.vercel.app/)
+## Portfolio - [Avtar's PortFolio](https://avtarsingh-portfolio.vercel.app/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techiepajji) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avtarsingh13) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@techiepajji) 
